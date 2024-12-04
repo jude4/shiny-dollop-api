@@ -1,7 +1,7 @@
 spring:
   datasource:
-    url: jdbc:sqlserver://localhost:1433;encrypt=true;trustServerCertificate=true;databaseName=companydb
-    username:
+    url: jdbc:sqlserver://localhost:1433;encrypt=true;trustServerCertificate=true;databaseName=student
+    username: BEXIT\farid
     password:
     driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
   jpa:
